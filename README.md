@@ -6,7 +6,7 @@ I'm saikumar kandunuri, a Computer Science enthusiast from Avanthi Institute of 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai.cj06)
 
-[![LinkedIn](https://www.linkedin.com/in/saipatelkandunuri2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/saipatelkandunuri2004)
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saipatelkandunuri@gmail.com)
 
